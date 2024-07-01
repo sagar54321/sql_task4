@@ -1,0 +1,51 @@
+"productid","productname","category","brand","price","stockquantity"
+1,"Realme X","Smartphones","Realme",20000,150
+2,"Smartphone X1","Smartphones","BrandA",799,50
+3,"Smartphone X2","Smartphones","BrandA",899,40
+4,"Smartphone Y1","Smartphones","BrandB",699,60
+5,"Smartphone Y2","Smartphones","BrandB",799,45
+6,"Laptop Z1","Laptops","BrandC",1299,30
+7,"Laptop Z2","Laptops","BrandC",1499,25
+8,"Tablet T1","Tablets","BrandD",499,70
+9,"Tablet T2","Tablets","BrandD",599,65
+10,"Camera C1","Cameras","BrandE",899,20
+11,"Camera C2","Cameras","BrandE",999,15
+12,"Headphones H2","Audio","BrandF",299,85
+13,"Smartwatch S1","Wearables","BrandG",399,50
+14,"Smartwatch S2","Wearables","BrandG",499,40
+15,"Speaker SP1","Audio","BrandH",99,150
+16,"Speaker SP2","Audio","BrandH",149,120
+17,"Monitor M1","Monitors","BrandI",299,35
+18,"Monitor M2","Monitors","BrandI",399,30
+19,"Keyboard K1","Accessories","BrandJ",49,200
+20,"Keyboard K2","Accessories","BrandJ",69,180
+21,"Mouse M1","Accessories","BrandK",29,250
+22,"Mouse M2","Accessories","BrandK",39,220
+23,"Printer P1","Printers","BrandL",199,55
+24,"Printer P2","Printers","BrandL",299,45
+25,"Router R1","Networking","BrandM",79,90
+26,"Router R2","Networking","BrandM",99,80
+27,"TV T1","Televisions","BrandN",599,40
+28,"TV T2","Televisions","BrandN",799,35
+29,"Game Console GC1","Gaming","BrandO",399,60
+30,"Game Console GC2","Gaming","BrandO",499,55
+31,"Smart Light SL1","Smart Home","BrandP",49,120
+32,"Smart Light SL2","Smart Home","BrandP",69,100
+33,"Vacuum Cleaner VC1","Home Appliances","BrandQ",199,45
+34,"Vacuum Cleaner VC2","Home Appliances","BrandQ",299,40
+35,"Fitness Tracker FT1","Wearables","BrandR",149,80
+36,"Fitness Tracker FT2","Wearables","BrandR",199,70
+37,"Drone D1","Drones","BrandS",599,30
+38,"Drone D2","Drones","BrandS",799,25
+39,"Smart Thermostat ST1","Smart Home","BrandT",199,50
+40,"Smart Thermostat ST2","Smart Home","BrandT",299,45
+41,"Security Camera SC1","Security","BrandU",149,75
+42,"Security Camera SC2","Security","BrandU",199,60
+43,"External Hard Drive EHD1","Storage","BrandV",89,90
+44,"External Hard Drive EHD2","Storage","BrandV",129,80
+45,"USB Flash Drive UFD1","Storage","BrandW",19,200
+46,"USB Flash Drive UFD2","Storage","BrandW",29,180
+47,"Bluetooth Speaker BS1","Audio","BrandX",149,110
+48,"Bluetooth Speaker BS2","Audio","BrandX",199,90
+49,"Smart Door Lock SDL1","Smart Home","BrandY",299,50
+50,"Smart Door Lock SDL2","Smart Home","BrandY",399,40
